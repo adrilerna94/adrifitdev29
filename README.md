@@ -1,5 +1,5 @@
-#Hola, soy Adri!
-Bienvenido a mi perfil de GitHub
+##Hola, soy Adri!
+###Bienvenido a mi perfil de GitHub
 
 ##Sobre mi
 Soy un psicólogo con experiencia en selección de perfiles IT reconvertido al sector IT.
@@ -9,7 +9,9 @@ Ahora me encuentro aprendiendo php y nodejs.
 Respecto a BBDD he programado con pl/sql y he realizado consultas SQL.
 
 ##Algunos de mis Proyectos
--[Herum Ecommerce](https://github.com/adrilerna94/ecommerce-herum.git)
--[AdriFitDiet](https://github.com/adrilerna94/AdriFitDiet.git)
--[SoundWave](https://github.com/adrilerna94/soundwave-adrilerna94.git) 
--[Javascript Palindrome Kata](https://github.com/adrilerna94/kata-js-test-palindrome.git)
+<ul>
+  <li>[Herum Ecommerce](https://github.com/adrilerna94/ecommerce-herum.git)</li>
+  <li>[AdriFitDiet](https://github.com/adrilerna94/AdriFitDiet.git) </li>
+  <li>[SoundWave](https://github.com/adrilerna94/soundwave-adrilerna94.git) </li>
+  <li>[Javascript Palindrome Kata](https://github.com/adrilerna94/kata-js-test-palindrome.git)</li>
+</ul>
