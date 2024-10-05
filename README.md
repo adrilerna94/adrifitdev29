@@ -9,8 +9,7 @@ Ahora me encuentro aprendiendo php y nodejs.
 Respecto a BBDD he programado con pl/sql y he realizado consultas SQL.
 
 ##Algunos de mis Proyectos
-<ul>
-  <li>[Herum Ecommerce](https://github.com/adrilerna94/ecommerce-herum.git)</li>
+[Herum Ecommerce](https://github.com/adrilerna94/ecommerce-herum.git)
   <li>[AdriFitDiet](https://github.com/adrilerna94/AdriFitDiet.git) </li>
   <li>[SoundWave](https://github.com/adrilerna94/soundwave-adrilerna94.git) </li>
   <li>[Javascript Palindrome Kata](https://github.com/adrilerna94/kata-js-test-palindrome.git)</li>
